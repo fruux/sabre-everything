@@ -1,0 +1,39 @@
+[submodule "dav"]
+	path = dav
+	url = git@github.com:fruux/sabre-dav.git
+[submodule "xml"]
+	path = xml
+	url = git@github.com:fruux/sabre-xml.git
+[submodule "xml-atom"]
+	path = xml-atom
+	url = git@github.com:fruux/sabre-xml-atom.git
+[submodule "vobject"]
+	path = vobject
+	url = git@github.com:fruux/sabre-vobject.git
+[submodule "sabre.io"]
+	path = sabre.io
+	url = git@github.com:fruux/sabre.io.git
+[submodule "skel"]
+	path = skel
+	url = git@github.com:fruux/sabre-skel.git
+[submodule "katana"]
+	path = katana
+	url = git@github.com:fruux/sabre-katana.git
+[submodule "http"]
+	path = http
+	url = git@github.com:fruux/sabre-http.git
+[submodule "tzserver"]
+	path = tzserver
+	url = git@github.com:fruux/sabre-tzserver.git
+[submodule "davclient"]
+	path = davclient
+	url = git@github.com:fruux/sabre-davclient.git
+[submodule "uri"]
+	path = uri
+	url = https://github.com/fruux/sabre-uri
+[submodule "event"]
+	path = event
+	url = https://github.com/fruux/sabre-event
+[submodule "cs"]
+	path = cs
+	url = https://github.com/fruux/sabre-cs
