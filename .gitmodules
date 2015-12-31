@@ -30,10 +30,10 @@
 	url = git@github.com:fruux/sabre-davclient.git
 [submodule "uri"]
 	path = uri
-	url = https://github.com/fruux/sabre-uri
+	url = git@github.com:fruux/sabre-uri.git
 [submodule "event"]
 	path = event
-	url = https://github.com/fruux/sabre-event
+	url = git@github.com:fruux/sabre-event.git
 [submodule "cs"]
 	path = cs
-	url = https://github.com/fruux/sabre-cs
+	url = git@github.com:fruux/sabre-cs.git
